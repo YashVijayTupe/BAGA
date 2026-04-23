@@ -1,0 +1,40 @@
+# Node
+node_modules/
+.next/
+dist/
+build/
+npm_output.txt
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Secret files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+backend/models/*.pkl

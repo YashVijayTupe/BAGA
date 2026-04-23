@@ -1,0 +1,1001 @@
+complaint_id,raw_text,issue_category,jurisdiction_level,assigned_department,officer_title,priority_level,actual_resolution_hours
+BAGA-0001,"Huge pothole on Ring Road near school, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,210.6
+BAGA-0002,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.9
+BAGA-0003,Water pipe burst on FC Road near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.7
+BAGA-0004,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.0
+BAGA-0005,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.5
+BAGA-0006,There is no water supply in Ward 39 since 6 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.8
+BAGA-0007,"Sewer line blocked in Shivaji Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,16.6
+BAGA-0008,"Dustbins removed from FC Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,59.4
+BAGA-0009,Handpump in village Shirgaon not working for 3 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,76.3
+BAGA-0010,Road damaged after monsoon near temple,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,228.4
+BAGA-0011,"Footpath broken in Baner, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,233.8
+BAGA-0012,"Village Mahuli needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,94.8
+BAGA-0013,"No water in gram panchayat Devgad, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,86.2
+BAGA-0014,Dirty contaminated water coming from tap in Baner,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.9
+BAGA-0015,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.4
+BAGA-0016,There is no water supply in Ward 5 since 10 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.7
+BAGA-0017,"School building in Ambegaon is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,448.1
+BAGA-0018,Toilet construction incomplete in Shirgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,81.1
+BAGA-0019,There is no water supply in Ward 7 since 6 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.6
+BAGA-0020,"School building in Mahuli is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,575.0
+BAGA-0021,"Dustbins removed from FC Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,81.3
+BAGA-0022,Dirty contaminated water coming from tap in Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.2
+BAGA-0023,Electric pole fallen on road near hospital in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0024,"Transformer burst in Kothrud, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.8
+BAGA-0025,Water pipe burst on Mall Road near market,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.9
+BAGA-0026,"Drain overflowing on Station Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,29.0
+BAGA-0027,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.3
+BAGA-0028,"Village Shirgaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,68.1
+BAGA-0029,Overhead tank not filling in our colony Baner,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.5
+BAGA-0030,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.8
+BAGA-0031,"Power cut in Sadar Bazar for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0032,Water pipe burst on Old Mumbai Highway near government office,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.3
+BAGA-0033,Streetlight not working on Old Mumbai Highway for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.0
+BAGA-0034,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.6
+BAGA-0035,"Drain overflowing on MG Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,62.2
+BAGA-0036,Community hall roof collapsed in gram panchayat Devgad,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,459.2
+BAGA-0037,"Transformer burst in Koregaon Park, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.9
+BAGA-0038,"Power cut in Laxmi Nagar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0039,"Power cut in Baner for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.0
+BAGA-0040,Handpump in village Rajgurunagar not working for 7 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,90.1
+BAGA-0041,Toilet construction incomplete in Shirgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,76.8
+BAGA-0042,Dirty contaminated water coming from tap in Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.6
+BAGA-0043,"Water pressure is very low in Laxmi Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,27.5
+BAGA-0044,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,102.8
+BAGA-0045,Electric pole fallen on road near petrol pump in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0046,"Power cut in Baner for 24 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.0
+BAGA-0047,Open dumping of waste near school in Kothrud,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,45.5
+BAGA-0048,"Water pressure is very low in Kothrud, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.4
+BAGA-0049,Streetlight not working on Ring Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.0
+BAGA-0050,"Power cut in Hadapsar for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0051,Voltage fluctuation damaging appliances in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.7
+BAGA-0052,Streetlight not working on Old Mumbai Highway for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0053,"Drain overflowing on NH-48, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,44.9
+BAGA-0054,Road damaged after monsoon near temple,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,246.3
+BAGA-0055,"Power cut in Nehru Colony for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,2.7
+BAGA-0056,"Drain overflowing on Old Mumbai Highway, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.1
+BAGA-0057,Dirty contaminated water coming from tap in Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.7
+BAGA-0058,Open dumping of waste near temple in Baner,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.0
+BAGA-0059,"Village Bhimashankar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,67.0
+BAGA-0060,"Power cut in Gandhi Nagar for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.8
+BAGA-0061,Electric pole fallen on road near petrol pump in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0062,Open dumping of waste near college in Shivaji Nagar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,27.9
+BAGA-0063,"Drain overflowing on Mall Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,49.2
+BAGA-0064,Toilet construction incomplete in Kolegaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,76.2
+BAGA-0065,"Water pressure is very low in Nehru Colony, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.9
+BAGA-0066,Garbage not collected for 15 days in Ward 6,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,44.9
+BAGA-0067,Dirty contaminated water coming from tap in Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.0
+BAGA-0068,"Dustbins removed from Civil Lines Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,47.9
+BAGA-0069,Community hall roof collapsed in gram panchayat Bhimashankar,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,470.2
+BAGA-0070,Voltage fluctuation damaging appliances in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.5
+BAGA-0071,No speed breakers near school on Tilak Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,331.4
+BAGA-0072,Toilet construction incomplete in Junnar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,109.1
+BAGA-0073,Dirty contaminated water coming from tap in Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.0
+BAGA-0074,"Water pressure is very low in Hadapsar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.5
+BAGA-0075,There is no water supply in Ward 45 since 4 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,46.2
+BAGA-0076,Water pipe burst on Mall Road near college,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.2
+BAGA-0077,Handpump in village Rajgurunagar not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,95.7
+BAGA-0078,"Water pressure is very low in Nehru Colony, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.7
+BAGA-0079,"School building in Devgad is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,595.8
+BAGA-0080,"Water pressure is very low in Koregaon Park, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.0
+BAGA-0081,"Drain overflowing on Tilak Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,43.7
+BAGA-0082,Community hall roof collapsed in gram panchayat Wadgaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,590.1
+BAGA-0083,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.7
+BAGA-0084,Garbage not collected for 15 days in Ward 23,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,78.5
+BAGA-0085,There is no water supply in Ward 13 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,27.4
+BAGA-0086,"Drain overflowing on NH-48, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,62.3
+BAGA-0087,Streetlight not working on NH-48 for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0088,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.3
+BAGA-0089,Water pipe burst on FC Road near school,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.4
+BAGA-0090,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.1
+BAGA-0091,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.0
+BAGA-0092,Community hall roof collapsed in gram panchayat Pargaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,430.5
+BAGA-0093,Anganwadi building in Devgad needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,606.1
+BAGA-0094,"Drain overflowing on Ring Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,36.5
+BAGA-0095,"Dustbins removed from Mall Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,57.2
+BAGA-0096,Electric pole fallen on road near temple in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.5
+BAGA-0097,Village road from Kolegaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,461.9
+BAGA-0098,"Divider damaged on Civil Lines Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,271.0
+BAGA-0099,"Drain overflowing on Old Mumbai Highway, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,58.5
+BAGA-0100,"School building in Mahuli is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,518.4
+BAGA-0101,Streetlight not working on Old Mumbai Highway for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,13.5
+BAGA-0102,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,85.7
+BAGA-0103,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.2
+BAGA-0104,There is no water supply in Ward 4 since 24 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.9
+BAGA-0105,"Bridge near Wadgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,528.8
+BAGA-0106,Electric pole fallen on road near hospital in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.5
+BAGA-0107,"Power cut in Gandhi Nagar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.1
+BAGA-0108,"Footpath broken in Laxmi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,301.3
+BAGA-0109,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.1
+BAGA-0110,"Village Rajgurunagar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,74.8
+BAGA-0111,"Power cut in Aundh for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.3
+BAGA-0112,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,46.6
+BAGA-0113,Handpump in village Devgad not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,103.0
+BAGA-0114,Voltage fluctuation damaging appliances in Sadar Bazar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0115,"Bridge near Wadgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,453.7
+BAGA-0116,"Dustbins removed from Civil Lines Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,64.6
+BAGA-0117,Electric pole fallen on road near government office in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0118,"Power cut in Gandhi Nagar for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0119,Toilet construction incomplete in Rajgurunagar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,109.9
+BAGA-0120,"School building in Junnar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,540.7
+BAGA-0121,Electric pole fallen on road near market in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0122,Garbage not collected for 10 days in Ward 19,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.1
+BAGA-0123,"Huge pothole on Station Road near market, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,271.9
+BAGA-0124,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.9
+BAGA-0125,Road damaged after monsoon near park,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,178.2
+BAGA-0126,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,90.4
+BAGA-0127,Water pipe burst on Tilak Road near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.6
+BAGA-0128,Handpump in village Devgad not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,78.0
+BAGA-0129,Streetlight not working on Civil Lines Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0130,"Water pressure is very low in Aundh, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.4
+BAGA-0131,Dirty contaminated water coming from tap in Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,50.3
+BAGA-0132,"School building in Devgad is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,705.9
+BAGA-0133,Streetlight not working on Tilak Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0134,"Drain overflowing on Mall Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,53.3
+BAGA-0135,Electric pole fallen on road near hospital in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.1
+BAGA-0136,Overhead tank not filling in our colony MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.0
+BAGA-0137,Water pipe burst on NH-48 near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.4
+BAGA-0138,"Water pressure is very low in Sadar Bazar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,46.0
+BAGA-0139,"Water pressure is very low in Shivaji Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.9
+BAGA-0140,"Power cut in Gandhi Nagar for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.8
+BAGA-0141,Village road from Mahuli to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,574.0
+BAGA-0142,"No water in gram panchayat Junnar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,113.7
+BAGA-0143,"Divider damaged on FC Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,228.9
+BAGA-0144,Electric pole fallen on road near park in Sadar Bazar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.4
+BAGA-0145,Dirty contaminated water coming from tap in Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.6
+BAGA-0146,Dirty contaminated water coming from tap in Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,47.2
+BAGA-0147,"Water contamination in Rajgurunagar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,60.7
+BAGA-0148,Road damaged after monsoon near temple,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,259.0
+BAGA-0149,No speed breakers near school on Old Mumbai Highway,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,338.1
+BAGA-0150,Dirty contaminated water coming from tap in Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.9
+BAGA-0151,"Divider damaged on NH-48, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,266.8
+BAGA-0152,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.7
+BAGA-0153,Anganwadi building in Bhimashankar needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,521.8
+BAGA-0154,"No water in gram panchayat Mahuli, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,85.1
+BAGA-0155,Streetlight not working on Station Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.2
+BAGA-0156,Community hall roof collapsed in gram panchayat Kolegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,655.2
+BAGA-0157,"Divider damaged on FC Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,297.0
+BAGA-0158,Road damaged after monsoon near railway station,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,267.4
+BAGA-0159,Electric pole fallen on road near school in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.0
+BAGA-0160,Open dumping of waste near college in Sadar Bazar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.5
+BAGA-0161,"Power cut in Nehru Colony for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0162,Community hall roof collapsed in gram panchayat Bhimashankar,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,508.0
+BAGA-0163,Anganwadi building in Kolegaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,572.6
+BAGA-0164,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0165,"Dustbins removed from Station Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,54.6
+BAGA-0166,Streetlight not working on FC Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0167,Streetlight not working on Station Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.4
+BAGA-0168,Voltage fluctuation damaging appliances in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.6
+BAGA-0169,"Sewer line blocked in Shivaji Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,66.6
+BAGA-0170,Voltage fluctuation damaging appliances in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.1
+BAGA-0171,Overhead tank not filling in our colony Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.1
+BAGA-0172,"Power cut in Nehru Colony for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.9
+BAGA-0173,"Drain overflowing on FC Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,45.1
+BAGA-0174,Overhead tank not filling in our colony Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.1
+BAGA-0175,"Power cut in Sadar Bazar for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.5
+BAGA-0176,Streetlight not working on Mall Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0177,Streetlight not working on NH-48 for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.8
+BAGA-0178,No speed breakers near school on GT Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,315.1
+BAGA-0179,Open dumping of waste near college in Sadar Bazar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,62.5
+BAGA-0180,"Power cut in Kothrud for 24 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.6
+BAGA-0181,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0182,Handpump in village Pargaon not working for 2 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,83.8
+BAGA-0183,"Divider damaged on Ring Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,249.2
+BAGA-0184,Dirty contaminated water coming from tap in Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,40.8
+BAGA-0185,Water pipe burst on MG Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.7
+BAGA-0186,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,44.1
+BAGA-0187,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.4
+BAGA-0188,"Power cut in Kothrud for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0189,Streetlight not working on Tilak Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0190,Voltage fluctuation damaging appliances in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.0
+BAGA-0191,"Power cut in Koregaon Park for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.7
+BAGA-0192,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,44.2
+BAGA-0193,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.9
+BAGA-0194,"Power cut in Gandhi Nagar for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.1
+BAGA-0195,"Water pressure is very low in Sadar Bazar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.2
+BAGA-0196,"Footpath broken in Laxmi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,263.8
+BAGA-0197,"Water pressure is very low in Laxmi Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.6
+BAGA-0198,"Village Bhimashankar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,97.9
+BAGA-0199,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.1
+BAGA-0200,Streetlight not working on NH-48 for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0201,"Sewer line blocked in Nehru Colony, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,48.8
+BAGA-0202,Streetlight not working on Civil Lines Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.0
+BAGA-0203,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.8
+BAGA-0204,Handpump in village Bhimashankar not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,85.0
+BAGA-0205,"School building in Rajgurunagar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,501.1
+BAGA-0206,"School building in Rajgurunagar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,707.4
+BAGA-0207,Handpump in village Bhimashankar not working for 2 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,82.0
+BAGA-0208,"Bridge near Ambegaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,627.9
+BAGA-0209,Open dumping of waste near college in Kothrud,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.1
+BAGA-0210,Road damaged after monsoon near railway station,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,199.0
+BAGA-0211,"Village Mahuli needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,49.6
+BAGA-0212,Streetlight not working on Mall Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0213,"School building in Ambegaon is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,606.8
+BAGA-0214,Road damaged after monsoon near temple,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,334.9
+BAGA-0215,"Transformer burst in Aundh, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0216,Voltage fluctuation damaging appliances in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0217,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0218,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,211.3
+BAGA-0219,Streetlight not working on Old Mumbai Highway for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0220,No speed breakers near school on Tilak Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,277.4
+BAGA-0221,"Huge pothole on Civil Lines Road near market, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,258.8
+BAGA-0222,Streetlight not working on NH-48 for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0223,"Power cut in Aundh for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.0
+BAGA-0224,Voltage fluctuation damaging appliances in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0225,Streetlight not working on GT Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0226,Water pipe burst on Civil Lines Road near petrol pump,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.4
+BAGA-0227,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.3
+BAGA-0228,"Bridge near Kolegaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,588.2
+BAGA-0229,Handpump in village Wadgaon not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,69.1
+BAGA-0230,"Bridge near Wadgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,512.7
+BAGA-0231,Toilet construction incomplete in Ambegaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,86.1
+BAGA-0232,Voltage fluctuation damaging appliances in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.1
+BAGA-0233,"Water contamination in Mahuli, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,102.5
+BAGA-0234,"Huge pothole on GT Road near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,272.0
+BAGA-0235,Water pipe burst on Civil Lines Road near park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,44.9
+BAGA-0236,"Sewer line blocked in Koregaon Park, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,58.5
+BAGA-0237,Dirty contaminated water coming from tap in Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,25.6
+BAGA-0238,"Footpath broken in Kothrud, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,333.3
+BAGA-0239,Electric pole fallen on road near college in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0240,Electric pole fallen on road near temple in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.7
+BAGA-0241,No speed breakers near school on NH-48,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,311.1
+BAGA-0242,Streetlight not working on Ring Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0243,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.9
+BAGA-0244,Garbage not collected for 2 days in Ward 48,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,57.6
+BAGA-0245,"Footpath broken in Laxmi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,263.7
+BAGA-0246,Open dumping of waste near petrol pump in MG Road area,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.8
+BAGA-0247,Community hall roof collapsed in gram panchayat Bhimashankar,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,528.9
+BAGA-0248,Dirty contaminated water coming from tap in Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.5
+BAGA-0249,Water pipe burst on Tilak Road near college,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.4
+BAGA-0250,"Sewer line blocked in Aundh, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,53.9
+BAGA-0251,"Power cut in Nehru Colony for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.1
+BAGA-0252,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.1
+BAGA-0253,Water pipe burst on Tilak Road near school,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.1
+BAGA-0254,"Water pressure is very low in Koregaon Park, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.6
+BAGA-0255,Water pipe burst on Station Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,27.4
+BAGA-0256,No speed breakers near school on FC Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,254.8
+BAGA-0257,"Water contamination in Junnar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,82.2
+BAGA-0258,Electric pole fallen on road near railway station in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0259,"Bridge near Ambegaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,616.6
+BAGA-0260,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0261,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.7
+BAGA-0262,Toilet construction incomplete in Wadgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,61.9
+BAGA-0263,Toilet construction incomplete in Pargaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,72.7
+BAGA-0264,Voltage fluctuation damaging appliances in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.6
+BAGA-0265,"Water pressure is very low in Hadapsar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.1
+BAGA-0266,"Transformer burst in MG Road area, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.0
+BAGA-0267,"Village Ambegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,66.5
+BAGA-0268,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,267.8
+BAGA-0269,Handpump in village Pargaon not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,69.4
+BAGA-0270,"Divider damaged on Old Mumbai Highway, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,220.6
+BAGA-0271,Dirty contaminated water coming from tap in Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.6
+BAGA-0272,"Drain overflowing on GT Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,40.1
+BAGA-0273,"Water pressure is very low in Kothrud, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.3
+BAGA-0274,Anganwadi building in Pargaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,622.0
+BAGA-0275,Streetlight not working on Ring Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0276,"Village Junnar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,83.9
+BAGA-0277,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,76.1
+BAGA-0278,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,45.5
+BAGA-0279,"Dustbins removed from NH-48, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,64.7
+BAGA-0280,"Village Shirgaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,60.4
+BAGA-0281,"Divider damaged on Civil Lines Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,265.3
+BAGA-0282,Open dumping of waste near college in Sadar Bazar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,49.5
+BAGA-0283,"Water pressure is very low in Kothrud, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.3
+BAGA-0284,"Water pressure is very low in Baner, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.2
+BAGA-0285,Overhead tank not filling in our colony Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.0
+BAGA-0286,Electric pole fallen on road near government office in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0287,Water pipe burst on Old Mumbai Highway near government office,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,21.0
+BAGA-0288,Electric pole fallen on road near park in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0289,Dirty contaminated water coming from tap in Laxmi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.3
+BAGA-0290,"Transformer burst in Kothrud, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0291,Voltage fluctuation damaging appliances in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0292,Community hall roof collapsed in gram panchayat Wadgaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,492.1
+BAGA-0293,Electric pole fallen on road near park in Sadar Bazar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.1
+BAGA-0294,"Dustbins removed from NH-48, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,67.4
+BAGA-0295,"Power cut in Sadar Bazar for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0296,Road damaged after monsoon near hospital,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,215.9
+BAGA-0297,"Water contamination in Mahuli, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,75.7
+BAGA-0298,Toilet construction incomplete in Junnar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,78.5
+BAGA-0299,"Sewer line blocked in Nehru Colony, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,34.3
+BAGA-0300,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,88.8
+BAGA-0301,"Water contamination in Shirgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,81.3
+BAGA-0302,Water pipe burst on Ring Road near hospital,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.6
+BAGA-0303,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.4
+BAGA-0304,"School building in Bhimashankar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,608.4
+BAGA-0305,Streetlight not working on MG Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0306,Road damaged after monsoon near petrol pump,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,380.8
+BAGA-0307,"Drain overflowing on Station Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.0
+BAGA-0308,Overhead tank not filling in our colony Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.5
+BAGA-0309,Water pipe burst on NH-48 near park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.9
+BAGA-0310,Voltage fluctuation damaging appliances in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.2
+BAGA-0311,"Water pressure is very low in Shivaji Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.4
+BAGA-0312,Overhead tank not filling in our colony Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.5
+BAGA-0313,"Water pressure is very low in Hadapsar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.3
+BAGA-0314,Handpump in village Pargaon not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,102.6
+BAGA-0315,No speed breakers near school on Ring Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,251.0
+BAGA-0316,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.9
+BAGA-0317,"Huge pothole on Civil Lines Road near bus stand, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,231.5
+BAGA-0318,"Sewer line blocked in MG Road area, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,21.2
+BAGA-0319,Voltage fluctuation damaging appliances in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.8
+BAGA-0320,"Transformer burst in Aundh, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0321,"Divider damaged on Old Mumbai Highway, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,306.8
+BAGA-0322,"Bridge near Rajgurunagar damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,548.6
+BAGA-0323,There is no water supply in Ward 39 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.0
+BAGA-0324,Garbage not collected for 3 days in Ward 14,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,54.8
+BAGA-0325,Overhead tank not filling in our colony Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.1
+BAGA-0326,"Village Pargaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,106.5
+BAGA-0327,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.0
+BAGA-0328,"Sewer line blocked in Shivaji Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.8
+BAGA-0329,"Drain overflowing on Civil Lines Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,66.1
+BAGA-0330,"Power cut in Shivaji Nagar for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0331,"Drain overflowing on Old Mumbai Highway, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,63.4
+BAGA-0332,Overhead tank not filling in our colony Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.3
+BAGA-0333,"Drain overflowing on Tilak Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,59.6
+BAGA-0334,Village road from Devgad to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,627.6
+BAGA-0335,"Bridge near Pargaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,393.1
+BAGA-0336,Open dumping of waste near market in Kothrud,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.4
+BAGA-0337,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.0
+BAGA-0338,"Footpath broken in Baner, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,304.1
+BAGA-0339,"Footpath broken in Aundh, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,272.7
+BAGA-0340,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,131.6
+BAGA-0341,Water pipe burst on NH-48 near hospital,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,46.7
+BAGA-0342,"Power cut in Shivaji Nagar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0343,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0344,"Water contamination in Rajgurunagar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,63.5
+BAGA-0345,"Huge pothole on Tilak Road near college, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,272.8
+BAGA-0346,Streetlight not working on Ring Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.2
+BAGA-0347,"Huge pothole on Tilak Road near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,385.9
+BAGA-0348,Road damaged after monsoon near railway station,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,289.1
+BAGA-0349,Water pipe burst on Ring Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.4
+BAGA-0350,"Water pressure is very low in Shivaji Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.5
+BAGA-0351,"Sewer line blocked in Gandhi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,58.2
+BAGA-0352,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.4
+BAGA-0353,"Dustbins removed from MG Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,63.2
+BAGA-0354,"Footpath broken in Gandhi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,224.7
+BAGA-0355,"Sewer line blocked in Sadar Bazar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,34.5
+BAGA-0356,There is no water supply in Ward 28 since 5 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.1
+BAGA-0357,"Village Pargaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,98.5
+BAGA-0358,Road damaged after monsoon near school,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,256.5
+BAGA-0359,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,65.7
+BAGA-0360,"Power cut in Hadapsar for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.0
+BAGA-0361,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.2
+BAGA-0362,Streetlight not working on Station Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.7
+BAGA-0363,Toilet construction incomplete in Bhimashankar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,71.8
+BAGA-0364,Voltage fluctuation damaging appliances in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0365,"Sewer line blocked in Gandhi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.6
+BAGA-0366,"Water pressure is very low in Baner, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.9
+BAGA-0367,There is no water supply in Ward 20 since 12 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,51.4
+BAGA-0368,Dirty contaminated water coming from tap in Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.4
+BAGA-0369,"Power cut in Baner for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.8
+BAGA-0370,No speed breakers near school on Mall Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,136.4
+BAGA-0371,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,207.5
+BAGA-0372,"Water pressure is very low in Laxmi Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.2
+BAGA-0373,"Power cut in Laxmi Nagar for 24 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.7
+BAGA-0374,"Sewer line blocked in Aundh, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,54.3
+BAGA-0375,Anganwadi building in Pargaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,507.4
+BAGA-0376,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.6
+BAGA-0377,"Power cut in MG Road area for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0378,Open dumping of waste near bus stand in Baner,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,48.4
+BAGA-0379,"Sewer line blocked in Hadapsar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,49.2
+BAGA-0380,Overhead tank not filling in our colony Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.2
+BAGA-0381,Community hall roof collapsed in gram panchayat Junnar,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,508.4
+BAGA-0382,Garbage not collected for 5 days in Ward 47,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,45.2
+BAGA-0383,Streetlight not working on Civil Lines Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0384,"Huge pothole on Civil Lines Road near market, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,276.1
+BAGA-0385,Village road from Junnar to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,480.8
+BAGA-0386,"Transformer burst in Shivaji Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.1
+BAGA-0387,"Water pressure is very low in Sadar Bazar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.0
+BAGA-0388,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.5
+BAGA-0389,"Transformer burst in Aundh, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.5
+BAGA-0390,Road damaged after monsoon near park,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,224.8
+BAGA-0391,"Village Pargaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,97.6
+BAGA-0392,Road damaged after monsoon near hospital,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,196.2
+BAGA-0393,"No water in gram panchayat Shirgaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,52.4
+BAGA-0394,"Transformer burst in Shivaji Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0395,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.9
+BAGA-0396,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0397,No speed breakers near school on Old Mumbai Highway,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,367.5
+BAGA-0398,"Sewer line blocked in Gandhi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,56.1
+BAGA-0399,Dirty contaminated water coming from tap in Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.3
+BAGA-0400,"Dustbins removed from Tilak Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,49.2
+BAGA-0401,Overhead tank not filling in our colony MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.2
+BAGA-0402,Handpump in village Wadgaon not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,93.9
+BAGA-0403,Village road from Kolegaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,497.8
+BAGA-0404,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.2
+BAGA-0405,There is no water supply in Ward 39 since 24 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,45.7
+BAGA-0406,Anganwadi building in Shirgaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,681.3
+BAGA-0407,"Water pressure is very low in Koregaon Park, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.1
+BAGA-0408,Road damaged after monsoon near park,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,302.7
+BAGA-0409,"Water contamination in Bhimashankar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,77.7
+BAGA-0410,"Village Mahuli needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,87.6
+BAGA-0411,Garbage not collected for 7 days in Ward 26,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,29.7
+BAGA-0412,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,225.7
+BAGA-0413,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0414,"Water contamination in Devgad, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,52.4
+BAGA-0415,"Bridge near Shirgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,548.6
+BAGA-0416,Garbage not collected for 15 days in Ward 41,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.1
+BAGA-0417,Water pipe burst on Station Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.6
+BAGA-0418,Water pipe burst on Old Mumbai Highway near government office,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.9
+BAGA-0419,"Village Devgad needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,53.6
+BAGA-0420,"Power cut in Hadapsar for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.0
+BAGA-0421,Water pipe burst on NH-48 near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.1
+BAGA-0422,"No water in gram panchayat Junnar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,78.0
+BAGA-0423,Village road from Rajgurunagar to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,399.8
+BAGA-0424,Electric pole fallen on road near school in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.2
+BAGA-0425,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.8
+BAGA-0426,"Village Ambegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,100.7
+BAGA-0427,"Huge pothole on Civil Lines Road near college, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,200.7
+BAGA-0428,Toilet construction incomplete in Mahuli under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,79.9
+BAGA-0429,Voltage fluctuation damaging appliances in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.6
+BAGA-0430,Village road from Shirgaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,595.7
+BAGA-0431,Community hall roof collapsed in gram panchayat Pargaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,499.2
+BAGA-0432,Toilet construction incomplete in Shirgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,95.4
+BAGA-0433,"Dustbins removed from NH-48, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,57.8
+BAGA-0434,"Water pressure is very low in Aundh, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.8
+BAGA-0435,"School building in Junnar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,580.2
+BAGA-0436,"Transformer burst in Koregaon Park, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0437,Streetlight not working on GT Road for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0438,Streetlight not working on Ring Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0439,"Sewer line blocked in Shivaji Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,31.1
+BAGA-0440,Water pipe burst on Station Road near petrol pump,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.0
+BAGA-0441,There is no water supply in Ward 24 since 10 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.7
+BAGA-0442,"Transformer burst in Koregaon Park, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.6
+BAGA-0443,Dirty contaminated water coming from tap in Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.5
+BAGA-0444,"Power cut in Baner for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.1
+BAGA-0445,Open dumping of waste near railway station in Kothrud,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,58.4
+BAGA-0446,"No water in gram panchayat Rajgurunagar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,89.1
+BAGA-0447,"Dustbins removed from Old Mumbai Highway, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,56.6
+BAGA-0448,"Power cut in Aundh for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0449,Electric pole fallen on road near school in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.4
+BAGA-0450,"Huge pothole on Ring Road near railway station, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,231.2
+BAGA-0451,"Village Bhimashankar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,100.6
+BAGA-0452,Electric pole fallen on road near petrol pump in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0453,Streetlight not working on GT Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.6
+BAGA-0454,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.5
+BAGA-0455,"Drain overflowing on Civil Lines Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,44.4
+BAGA-0456,"Drain overflowing on Ring Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,38.3
+BAGA-0457,Open dumping of waste near school in Laxmi Nagar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,24.8
+BAGA-0458,"Bridge near Wadgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,431.3
+BAGA-0459,"Drain overflowing on Mall Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.0
+BAGA-0460,"Power cut in Nehru Colony for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0461,"Transformer burst in Aundh, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.6
+BAGA-0462,There is no water supply in Ward 6 since 8 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.0
+BAGA-0463,"Power cut in Nehru Colony for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0464,Handpump in village Mahuli not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,113.2
+BAGA-0465,Open dumping of waste near bus stand in Nehru Colony,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,41.8
+BAGA-0466,Dirty contaminated water coming from tap in Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.4
+BAGA-0467,Electric pole fallen on road near school in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.0
+BAGA-0468,Electric pole fallen on road near government office in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.7
+BAGA-0469,Electric pole fallen on road near bus stand in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.3
+BAGA-0470,Streetlight not working on Civil Lines Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.7
+BAGA-0471,Village road from Ambegaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,570.9
+BAGA-0472,"Dustbins removed from GT Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,43.5
+BAGA-0473,Open dumping of waste near market in Laxmi Nagar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,76.3
+BAGA-0474,"No water in gram panchayat Junnar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,100.9
+BAGA-0475,There is no water supply in Ward 34 since 12 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.8
+BAGA-0476,Dirty contaminated water coming from tap in Laxmi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.5
+BAGA-0477,"Power cut in Koregaon Park for 24 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0478,Handpump in village Bhimashankar not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,103.5
+BAGA-0479,Water pipe burst on Mall Road near park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,25.5
+BAGA-0480,"Dustbins removed from Old Mumbai Highway, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,32.9
+BAGA-0481,Streetlight not working on NH-48 for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0482,"Dustbins removed from FC Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,47.9
+BAGA-0483,Anganwadi building in Mahuli needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,226.7
+BAGA-0484,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,68.3
+BAGA-0485,Streetlight not working on MG Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.6
+BAGA-0486,"Water contamination in Ambegaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,63.6
+BAGA-0487,"Dustbins removed from Old Mumbai Highway, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.9
+BAGA-0488,Village road from Bhimashankar to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,567.5
+BAGA-0489,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0490,"Power cut in Gandhi Nagar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0491,Anganwadi building in Ambegaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,630.8
+BAGA-0492,Streetlight not working on Old Mumbai Highway for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.1
+BAGA-0493,Water pipe burst on GT Road near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.8
+BAGA-0494,Voltage fluctuation damaging appliances in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0495,Dirty contaminated water coming from tap in Hadapsar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.5
+BAGA-0496,"Village Junnar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,91.2
+BAGA-0497,Water pipe burst on MG Road near temple,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,40.9
+BAGA-0498,Streetlight not working on MG Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.0
+BAGA-0499,Community hall roof collapsed in gram panchayat Wadgaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,607.8
+BAGA-0500,Toilet construction incomplete in Kolegaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,59.7
+BAGA-0501,Electric pole fallen on road near petrol pump in Koregaon Park,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0502,"Water contamination in Kolegaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,76.8
+BAGA-0503,"Power cut in Sadar Bazar for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.4
+BAGA-0504,"Power cut in Hadapsar for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.1
+BAGA-0505,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.1
+BAGA-0506,"Water pressure is very low in Baner, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.5
+BAGA-0507,"Dustbins removed from Ring Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,43.6
+BAGA-0508,"Water contamination in Wadgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,87.1
+BAGA-0509,"Drain overflowing on FC Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,42.2
+BAGA-0510,"Transformer burst in Koregaon Park, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0511,Streetlight not working on Civil Lines Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0512,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.8
+BAGA-0513,"Water pressure is very low in Aundh, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.2
+BAGA-0514,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.9
+BAGA-0515,Village road from Wadgaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,386.9
+BAGA-0516,"Power cut in MG Road area for 24 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.2
+BAGA-0517,"Huge pothole on MG Road near school, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,205.0
+BAGA-0518,Electric pole fallen on road near market in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0519,Village road from Wadgaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,641.0
+BAGA-0520,"Drain overflowing on Old Mumbai Highway, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,63.7
+BAGA-0521,"Power cut in Nehru Colony for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0522,Voltage fluctuation damaging appliances in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.7
+BAGA-0523,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,205.1
+BAGA-0524,"Dustbins removed from GT Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,67.9
+BAGA-0525,"Power cut in Nehru Colony for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.8
+BAGA-0526,Open dumping of waste near school in Sadar Bazar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,45.5
+BAGA-0527,"Dustbins removed from GT Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,48.9
+BAGA-0528,Road damaged after monsoon near college,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,253.0
+BAGA-0529,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.0
+BAGA-0530,Overhead tank not filling in our colony Baner,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.8
+BAGA-0531,Voltage fluctuation damaging appliances in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0532,Streetlight not working on GT Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0533,"Power cut in Nehru Colony for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.1
+BAGA-0534,Water pipe burst on Station Road near college,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.9
+BAGA-0535,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.5
+BAGA-0536,"Village Mahuli needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,92.8
+BAGA-0537,There is no water supply in Ward 49 since 4 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.2
+BAGA-0538,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,227.6
+BAGA-0539,"Sewer line blocked in Nehru Colony, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,39.1
+BAGA-0540,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,83.7
+BAGA-0541,"Drain overflowing on GT Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,40.4
+BAGA-0542,"Divider damaged on NH-48, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,311.8
+BAGA-0543,Overhead tank not filling in our colony Laxmi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.0
+BAGA-0544,"Water contamination in Pargaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,71.6
+BAGA-0545,"No water in gram panchayat Ambegaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,102.4
+BAGA-0546,"Power cut in Gandhi Nagar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.8
+BAGA-0547,"Power cut in Sadar Bazar for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0548,There is no water supply in Ward 14 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.6
+BAGA-0549,"Sewer line blocked in Sadar Bazar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,76.8
+BAGA-0550,"Power cut in Shivaji Nagar for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0551,"No water in gram panchayat Ambegaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,68.2
+BAGA-0552,No speed breakers near school on NH-48,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,265.8
+BAGA-0553,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.9
+BAGA-0554,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.6
+BAGA-0555,Handpump in village Shirgaon not working for 2 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,101.8
+BAGA-0556,Garbage not collected for 7 days in Ward 44,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,55.5
+BAGA-0557,There is no water supply in Ward 43 since 4 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.7
+BAGA-0558,Streetlight not working on FC Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.4
+BAGA-0559,There is no water supply in Ward 25 since 12 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,46.9
+BAGA-0560,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0561,Electric pole fallen on road near hospital in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0562,"Power cut in Sadar Bazar for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.2
+BAGA-0563,There is no water supply in Ward 46 since 24 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.7
+BAGA-0564,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.9
+BAGA-0565,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,283.3
+BAGA-0566,"Transformer burst in Shivaji Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.4
+BAGA-0567,Water pipe burst on Ring Road near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.8
+BAGA-0568,Electric pole fallen on road near railway station in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0569,Community hall roof collapsed in gram panchayat Devgad,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,806.9
+BAGA-0570,Electric pole fallen on road near government office in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0571,"Dustbins removed from Ring Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,34.5
+BAGA-0572,Anganwadi building in Mahuli needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,590.8
+BAGA-0573,Dirty contaminated water coming from tap in Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.5
+BAGA-0574,Streetlight not working on Tilak Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0575,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.3
+BAGA-0576,No speed breakers near school on Civil Lines Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,220.7
+BAGA-0577,Voltage fluctuation damaging appliances in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.9
+BAGA-0578,"Power cut in Shivaji Nagar for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.0
+BAGA-0579,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,54.6
+BAGA-0580,"Water contamination in Shirgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,73.7
+BAGA-0581,Electric pole fallen on road near college in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0582,"School building in Kolegaon is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,427.2
+BAGA-0583,Streetlight not working on NH-48 for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0584,"Power cut in MG Road area for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0585,Overhead tank not filling in our colony Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.9
+BAGA-0586,"No water in gram panchayat Shirgaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,78.8
+BAGA-0587,Open dumping of waste near temple in Baner,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.1
+BAGA-0588,"Village Ambegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,103.1
+BAGA-0589,"Footpath broken in Shivaji Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,208.5
+BAGA-0590,Road damaged after monsoon near bus stand,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,279.3
+BAGA-0591,Streetlight not working on Tilak Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.6
+BAGA-0592,"Sewer line blocked in Baner, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,33.1
+BAGA-0593,Electric pole fallen on road near temple in Koregaon Park,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.9
+BAGA-0594,Overhead tank not filling in our colony Kothrud,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.4
+BAGA-0595,Water pipe burst on FC Road near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,23.4
+BAGA-0596,Voltage fluctuation damaging appliances in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0597,"Divider damaged on Tilak Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,295.1
+BAGA-0598,"Power cut in MG Road area for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.2
+BAGA-0599,Water pipe burst on Tilak Road near park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.1
+BAGA-0600,"Village Rajgurunagar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,106.0
+BAGA-0601,Streetlight not working on Station Road for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0602,Voltage fluctuation damaging appliances in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.6
+BAGA-0603,"Drain overflowing on Tilak Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,44.1
+BAGA-0604,There is no water supply in Ward 44 since 10 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.7
+BAGA-0605,"No water in gram panchayat Junnar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,81.6
+BAGA-0606,Streetlight not working on Station Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.9
+BAGA-0607,Garbage not collected for 15 days in Ward 25,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,40.9
+BAGA-0608,"Water pressure is very low in Gandhi Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.1
+BAGA-0609,"Power cut in Sadar Bazar for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0610,Voltage fluctuation damaging appliances in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.9
+BAGA-0611,No speed breakers near school on MG Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,163.2
+BAGA-0612,Community hall roof collapsed in gram panchayat Shirgaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,804.4
+BAGA-0613,Overhead tank not filling in our colony Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.4
+BAGA-0614,"School building in Mahuli is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,598.0
+BAGA-0615,Voltage fluctuation damaging appliances in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0616,"Huge pothole on FC Road near bus stand, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,232.8
+BAGA-0617,Streetlight not working on Station Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0618,Streetlight not working on Old Mumbai Highway for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.2
+BAGA-0619,Streetlight not working on Civil Lines Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0620,Toilet construction incomplete in Mahuli under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,120.1
+BAGA-0621,"Power cut in MG Road area for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.1
+BAGA-0622,Streetlight not working on Civil Lines Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0623,Village road from Shirgaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,443.1
+BAGA-0624,Anganwadi building in Wadgaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,600.2
+BAGA-0625,"Divider damaged on FC Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,227.0
+BAGA-0626,"School building in Pargaon is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,566.7
+BAGA-0627,Electric pole fallen on road near railway station in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.0
+BAGA-0628,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.5
+BAGA-0629,Toilet construction incomplete in Mahuli under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,94.2
+BAGA-0630,"Footpath broken in Hadapsar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,281.1
+BAGA-0631,Open dumping of waste near park in Gandhi Nagar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,60.6
+BAGA-0632,Voltage fluctuation damaging appliances in Sadar Bazar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0633,Electric pole fallen on road near railway station in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.6
+BAGA-0634,Overhead tank not filling in our colony Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.4
+BAGA-0635,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,61.0
+BAGA-0636,"Bridge near Rajgurunagar damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,392.1
+BAGA-0637,"Footpath broken in Gandhi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,189.5
+BAGA-0638,"Footpath broken in Laxmi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,249.4
+BAGA-0639,"Dustbins removed from NH-48, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.0
+BAGA-0640,"Bridge near Pargaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,477.0
+BAGA-0641,"Village Rajgurunagar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,43.5
+BAGA-0642,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0643,"No water in gram panchayat Rajgurunagar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,75.8
+BAGA-0644,"Sewer line blocked in Gandhi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,47.8
+BAGA-0645,No speed breakers near school on FC Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,333.4
+BAGA-0646,Toilet construction incomplete in Junnar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,51.2
+BAGA-0647,"Water contamination in Wadgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,96.2
+BAGA-0648,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0649,"Transformer burst in Kothrud, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.5
+BAGA-0650,Streetlight not working on MG Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0651,There is no water supply in Ward 24 since 3 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.9
+BAGA-0652,"Water pressure is very low in Sadar Bazar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.3
+BAGA-0653,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,68.3
+BAGA-0654,"Sewer line blocked in Baner, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,36.2
+BAGA-0655,Voltage fluctuation damaging appliances in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.2
+BAGA-0656,"No water in gram panchayat Pargaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,91.1
+BAGA-0657,"Power cut in Baner for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0658,"Water pressure is very low in Hadapsar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,26.5
+BAGA-0659,There is no water supply in Ward 19 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.2
+BAGA-0660,"Water contamination in Ambegaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,93.9
+BAGA-0661,Voltage fluctuation damaging appliances in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0662,"Drain overflowing on MG Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,36.8
+BAGA-0663,Electric pole fallen on road near school in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.8
+BAGA-0664,Toilet construction incomplete in Mahuli under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,82.6
+BAGA-0665,Overhead tank not filling in our colony Aundh,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.8
+BAGA-0666,"Water contamination in Bhimashankar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,86.5
+BAGA-0667,"Power cut in Shivaji Nagar for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0668,"Dustbins removed from Old Mumbai Highway, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.8
+BAGA-0669,Handpump in village Bhimashankar not working for 15 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,104.7
+BAGA-0670,"Transformer burst in MG Road area, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0671,Road damaged after monsoon near railway station,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,299.9
+BAGA-0672,"Dustbins removed from Civil Lines Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,39.6
+BAGA-0673,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.6
+BAGA-0674,Water pipe burst on FC Road near market,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.0
+BAGA-0675,Community hall roof collapsed in gram panchayat Wadgaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,740.0
+BAGA-0676,Dirty contaminated water coming from tap in Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.6
+BAGA-0677,Electric pole fallen on road near hospital in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.3
+BAGA-0678,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.7
+BAGA-0679,There is no water supply in Ward 1 since 5 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.3
+BAGA-0680,Toilet construction incomplete in Rajgurunagar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,113.2
+BAGA-0681,Open dumping of waste near park in Aundh,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,65.5
+BAGA-0682,"Water contamination in Mahuli, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,53.7
+BAGA-0683,Electric pole fallen on road near hospital in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0684,Road damaged after monsoon near college,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,226.9
+BAGA-0685,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,310.9
+BAGA-0686,Voltage fluctuation damaging appliances in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.2
+BAGA-0687,There is no water supply in Ward 14 since 6 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.8
+BAGA-0688,Handpump in village Mahuli not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,74.4
+BAGA-0689,Open dumping of waste near college in MG Road area,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,34.8
+BAGA-0690,"Divider damaged on Tilak Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,229.9
+BAGA-0691,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.4
+BAGA-0692,"Transformer burst in Baner, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0693,Garbage not collected for 15 days in Ward 21,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,60.4
+BAGA-0694,Anganwadi building in Devgad needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,549.8
+BAGA-0695,"Water contamination in Junnar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,62.9
+BAGA-0696,Anganwadi building in Pargaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,429.0
+BAGA-0697,Electric pole fallen on road near bus stand in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0698,Streetlight not working on NH-48 for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.9
+BAGA-0699,Road damaged after monsoon near hospital,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,268.6
+BAGA-0700,Streetlight not working on Civil Lines Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0701,Water pipe burst on NH-48 near petrol pump,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.1
+BAGA-0702,Toilet construction incomplete in Ambegaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,95.3
+BAGA-0703,Dirty contaminated water coming from tap in MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,45.5
+BAGA-0704,"Dustbins removed from GT Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,44.3
+BAGA-0705,Community hall roof collapsed in gram panchayat Pargaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,491.9
+BAGA-0706,Overhead tank not filling in our colony MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,27.6
+BAGA-0707,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0708,"Transformer burst in Shivaji Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.6
+BAGA-0709,"Water contamination in Junnar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,70.5
+BAGA-0710,Electric pole fallen on road near temple in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0711,There is no water supply in Ward 12 since 3 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,39.0
+BAGA-0712,Streetlight not working on Civil Lines Road for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0713,"Water pressure is very low in Aundh, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.6
+BAGA-0714,"Huge pothole on Station Road near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,221.3
+BAGA-0715,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.5
+BAGA-0716,"Drain overflowing on Civil Lines Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,56.5
+BAGA-0717,"Huge pothole on Old Mumbai Highway near park, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,367.5
+BAGA-0718,"No water in gram panchayat Ambegaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,63.6
+BAGA-0719,Streetlight not working on GT Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0720,Electric pole fallen on road near hospital in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.0
+BAGA-0721,"Drain overflowing on MG Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,42.7
+BAGA-0722,"Power cut in Aundh for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0723,"Power cut in Koregaon Park for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.1
+BAGA-0724,"Drain overflowing on Tilak Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,55.2
+BAGA-0725,"Water pressure is very low in MG Road area, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.9
+BAGA-0726,Anganwadi building in Rajgurunagar needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,508.2
+BAGA-0727,Open dumping of waste near petrol pump in Nehru Colony,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,48.6
+BAGA-0728,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0729,Overhead tank not filling in our colony Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,50.8
+BAGA-0730,"Power cut in Sadar Bazar for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0731,Water pipe burst on Ring Road near market,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,20.8
+BAGA-0732,There is no water supply in Ward 12 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.4
+BAGA-0733,"Huge pothole on Old Mumbai Highway near railway station, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,288.4
+BAGA-0734,No speed breakers near school on FC Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,266.6
+BAGA-0735,"Dustbins removed from MG Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,13.3
+BAGA-0736,There is no water supply in Ward 46 since 2 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.8
+BAGA-0737,Anganwadi building in Shirgaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,588.6
+BAGA-0738,Village road from Pargaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,424.6
+BAGA-0739,Water pipe burst on NH-48 near government office,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.9
+BAGA-0740,Voltage fluctuation damaging appliances in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0741,"Water pressure is very low in Shivaji Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.6
+BAGA-0742,Dirty contaminated water coming from tap in Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.5
+BAGA-0743,Open dumping of waste near petrol pump in Laxmi Nagar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.6
+BAGA-0744,Dirty contaminated water coming from tap in MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.2
+BAGA-0745,Toilet construction incomplete in Shirgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,56.4
+BAGA-0746,"Bridge near Ambegaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,622.1
+BAGA-0747,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,65.2
+BAGA-0748,Streetlight not working on FC Road for 2 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0749,"Divider damaged on FC Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,239.7
+BAGA-0750,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,207.8
+BAGA-0751,Voltage fluctuation damaging appliances in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.8
+BAGA-0752,There is no water supply in Ward 4 since 6 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,40.6
+BAGA-0753,"Huge pothole on Tilak Road near petrol pump, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,245.2
+BAGA-0754,"Drain overflowing on MG Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,47.8
+BAGA-0755,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.2
+BAGA-0756,"Sewer line blocked in Laxmi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,34.6
+BAGA-0757,Overhead tank not filling in our colony Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.0
+BAGA-0758,"Water contamination in Ambegaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,83.4
+BAGA-0759,"Footpath broken in Hadapsar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,206.7
+BAGA-0760,"Sewer line blocked in Gandhi Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,47.5
+BAGA-0761,"Power cut in Kothrud for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.4
+BAGA-0762,"Huge pothole on Old Mumbai Highway near market, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,242.6
+BAGA-0763,"Huge pothole on FC Road near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,277.7
+BAGA-0764,"Power cut in Kothrud for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0765,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.3
+BAGA-0766,No speed breakers near school on NH-48,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,210.2
+BAGA-0767,Open dumping of waste near temple in Baner,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.9
+BAGA-0768,Community hall roof collapsed in gram panchayat Pargaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,622.9
+BAGA-0769,Anganwadi building in Pargaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,564.9
+BAGA-0770,Handpump in village Ambegaon not working for 3 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,98.4
+BAGA-0771,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,28.9
+BAGA-0772,Streetlight not working on Mall Road for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0773,"Village Wadgaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,79.9
+BAGA-0774,There is no water supply in Ward 22 since 10 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,36.5
+BAGA-0775,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.4
+BAGA-0776,"Drain overflowing on NH-48, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,63.6
+BAGA-0777,"Dustbins removed from Old Mumbai Highway, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,56.2
+BAGA-0778,Dirty contaminated water coming from tap in Shivaji Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.9
+BAGA-0779,There is no water supply in Ward 21 since 4 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.7
+BAGA-0780,"Power cut in MG Road area for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.6
+BAGA-0781,"Drain overflowing on NH-48, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,55.3
+BAGA-0782,"Divider damaged on Old Mumbai Highway, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,326.9
+BAGA-0783,Garbage not collected for 3 days in Ward 31,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.4
+BAGA-0784,Electric pole fallen on road near hospital in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.1
+BAGA-0785,Community hall roof collapsed in gram panchayat Kolegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,487.5
+BAGA-0786,"Power cut in Baner for 8 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0787,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.9
+BAGA-0788,Streetlight not working on FC Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.6
+BAGA-0789,"Power cut in Shivaji Nagar for 5 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0790,"Dustbins removed from MG Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.3
+BAGA-0791,Streetlight not working on Mall Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.8
+BAGA-0792,Road damaged after monsoon near government office,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,202.5
+BAGA-0793,"Divider damaged on NH-48, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,291.8
+BAGA-0794,Open dumping of waste near hospital in Nehru Colony,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,49.8
+BAGA-0795,There is no water supply in Ward 6 since 3 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.3
+BAGA-0796,Community hall roof collapsed in gram panchayat Ambegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,525.2
+BAGA-0797,"Dustbins removed from NH-48, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.6
+BAGA-0798,Streetlight not working on NH-48 for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0799,Streetlight not working on Civil Lines Road for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.7
+BAGA-0800,"Huge pothole on Ring Road near bus stand, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,224.9
+BAGA-0801,"Power cut in Laxmi Nagar for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.8
+BAGA-0802,Community hall roof collapsed in gram panchayat Rajgurunagar,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,606.1
+BAGA-0803,Dirty contaminated water coming from tap in Laxmi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,38.0
+BAGA-0804,Streetlight not working on NH-48 for 5 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0805,There is no water supply in Ward 11 since 6 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.4
+BAGA-0806,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0807,"Power cut in Kothrud for 10 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0808,"Power cut in Kothrud for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.0
+BAGA-0809,Voltage fluctuation damaging appliances in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.6
+BAGA-0810,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,103.4
+BAGA-0811,"Dustbins removed from Ring Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,69.7
+BAGA-0812,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0813,"Bridge near Bhimashankar damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,484.0
+BAGA-0814,"Huge pothole on FC Road near college, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,286.9
+BAGA-0815,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.0
+BAGA-0816,"Power cut in Kothrud for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.1
+BAGA-0817,Dirty contaminated water coming from tap in MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,43.7
+BAGA-0818,Open dumping of waste near park in MG Road area,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,42.9
+BAGA-0819,"No water in gram panchayat Mahuli, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,97.0
+BAGA-0820,There is no water supply in Ward 36 since 24 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,44.7
+BAGA-0821,"Footpath broken in Laxmi Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,277.3
+BAGA-0822,Dirty contaminated water coming from tap in Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,44.7
+BAGA-0823,Voltage fluctuation damaging appliances in Hadapsar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.1
+BAGA-0824,"Water pressure is very low in Aundh, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.4
+BAGA-0825,"Drain overflowing on GT Road, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,38.2
+BAGA-0826,"Power cut in Nehru Colony for 12 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.8
+BAGA-0827,Voltage fluctuation damaging appliances in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,4.6
+BAGA-0828,"Huge pothole on Mall Road near government office, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,333.9
+BAGA-0829,"School building in Wadgaon is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,645.0
+BAGA-0830,Dirty contaminated water coming from tap in Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.6
+BAGA-0831,"Village Devgad needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,123.9
+BAGA-0832,Water pipe burst on Ring Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.2
+BAGA-0833,Handpump in village Ambegaon not working for 3 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,117.5
+BAGA-0834,"Village Bhimashankar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,118.0
+BAGA-0835,Community hall roof collapsed in gram panchayat Devgad,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,483.8
+BAGA-0836,Electric pole fallen on road near college in Koregaon Park,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.7
+BAGA-0837,"Village Ambegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,104.1
+BAGA-0838,"Transformer burst in Hadapsar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.7
+BAGA-0839,"Transformer burst in Aundh, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,2.5
+BAGA-0840,Dirty contaminated water coming from tap in MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,40.8
+BAGA-0841,Open dumping of waste near hospital in Nehru Colony,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,37.9
+BAGA-0842,Garbage not collected for 5 days in Ward 42,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,46.4
+BAGA-0843,Toilet construction incomplete in Pargaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,87.4
+BAGA-0844,"Footpath broken in Nehru Colony, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,291.7
+BAGA-0845,"School building in Junnar is dangerous, walls cracking",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,508.5
+BAGA-0846,"Divider damaged on Station Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,276.6
+BAGA-0847,"Power cut in Nehru Colony for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.4
+BAGA-0848,Toilet construction incomplete in Wadgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,49.1
+BAGA-0849,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,27.5
+BAGA-0850,"Water pressure is very low in Laxmi Nagar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,29.0
+BAGA-0851,Overhead tank not filling in our colony Sadar Bazar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.8
+BAGA-0852,Toilet construction incomplete in Wadgaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,97.9
+BAGA-0853,Garbage not collected for 7 days in Ward 2,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,60.4
+BAGA-0854,Voltage fluctuation damaging appliances in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.6
+BAGA-0855,Water pipe burst on NH-48 near park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.8
+BAGA-0856,"Village Junnar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,109.0
+BAGA-0857,There is no water supply in Ward 6 since 4 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.2
+BAGA-0858,"Water contamination in Rajgurunagar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,77.2
+BAGA-0859,No speed breakers near school on Civil Lines Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,307.2
+BAGA-0860,Overhead tank not filling in our colony Koregaon Park,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,40.7
+BAGA-0861,"Water contamination in Wadgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,91.1
+BAGA-0862,Anganwadi building in Bhimashankar needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,488.4
+BAGA-0863,Electric pole fallen on road near government office in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.0
+BAGA-0864,Garbage not collected for 5 days in Ward 40,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,37.3
+BAGA-0865,Voltage fluctuation damaging appliances in Koregaon Park,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.3
+BAGA-0866,Streetlight not working on Ring Road for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.2
+BAGA-0867,"Divider damaged on MG Road, accidents happening",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,238.7
+BAGA-0868,Dirty contaminated water coming from tap in Laxmi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.9
+BAGA-0869,"Power cut in Kothrud for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.2
+BAGA-0870,"Huge pothole on FC Road near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,209.7
+BAGA-0871,"Sewer line blocked in MG Road area, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.0
+BAGA-0872,Handpump in village Rajgurunagar not working for 7 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,85.6
+BAGA-0873,Electric pole fallen on road near hospital in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.8
+BAGA-0874,Open dumping of waste near hospital in Hadapsar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,40.8
+BAGA-0875,Electric pole fallen on road near college in Shivaji Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.8
+BAGA-0876,Toilet construction incomplete in Devgad under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,94.2
+BAGA-0877,"Huge pothole on Tilak Road near market, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,267.8
+BAGA-0878,Open dumping of waste near temple in Kothrud,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.2
+BAGA-0879,Water pipe burst on FC Road near school,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.4
+BAGA-0880,"Dustbins removed from MG Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,41.5
+BAGA-0881,"Power cut in Sadar Bazar for 6 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.0
+BAGA-0882,Water pipe burst on MG Road near petrol pump,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,52.0
+BAGA-0883,"Power cut in Hadapsar for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.4
+BAGA-0884,"Transformer burst in Kothrud, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.3
+BAGA-0885,"Water contamination in Junnar, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,82.5
+BAGA-0886,"Water contamination in Shirgaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,69.1
+BAGA-0887,There is no water supply in Ward 12 since 12 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,33.3
+BAGA-0888,"Footpath broken in Shivaji Nagar, elderly people falling",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,360.5
+BAGA-0889,Anganwadi building in Bhimashankar needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,476.0
+BAGA-0890,Handpump in village Wadgaon not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,85.3
+BAGA-0891,"Transformer burst in MG Road area, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.7
+BAGA-0892,Electric pole fallen on road near government office in Gandhi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0893,"Sewer line blocked in Hadapsar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,39.5
+BAGA-0894,Garbage not collected for 7 days in Ward 22,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,41.9
+BAGA-0895,Streetlight not working on Old Mumbai Highway for 15 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.1
+BAGA-0896,"Transformer burst in Kothrud, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.2
+BAGA-0897,Electric pole fallen on road near bus stand in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.3
+BAGA-0898,No speed breakers near school on Tilak Road,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,288.5
+BAGA-0899,"Power cut in MG Road area for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.9
+BAGA-0900,Voltage fluctuation damaging appliances in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.5
+BAGA-0901,"No water in gram panchayat Rajgurunagar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,66.5
+BAGA-0902,"Bridge near Shirgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,539.5
+BAGA-0903,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.6
+BAGA-0904,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0905,Open dumping of waste near petrol pump in Aundh,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,26.0
+BAGA-0906,Streetlight not working on Mall Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0907,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,105.4
+BAGA-0908,"Huge pothole on Station Road near bus stand, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,289.8
+BAGA-0909,Voltage fluctuation damaging appliances in Kothrud,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.6
+BAGA-0910,Anganwadi building in Kolegaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,550.6
+BAGA-0911,"Transformer burst in Nehru Colony, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.7
+BAGA-0912,Voltage fluctuation damaging appliances in Aundh,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.1
+BAGA-0913,"Dustbins removed from Civil Lines Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,41.4
+BAGA-0914,"Transformer burst in Sadar Bazar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,7.0
+BAGA-0915,Anganwadi building in Shirgaon needs repair,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,522.0
+BAGA-0916,Handpump in village Junnar not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,63.1
+BAGA-0917,There is no water supply in Ward 38 since 8 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,37.1
+BAGA-0918,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,88.3
+BAGA-0919,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.5
+BAGA-0920,Community hall roof collapsed in gram panchayat Kolegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,535.9
+BAGA-0921,Community hall roof collapsed in gram panchayat Kolegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,433.0
+BAGA-0922,Water pipe burst on NH-48 near bus stand,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.5
+BAGA-0923,Handpump in village Junnar not working for 3 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,116.3
+BAGA-0924,Streetlight not working on NH-48 for 3 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.4
+BAGA-0925,There is no water supply in Ward 38 since 12 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,31.2
+BAGA-0926,Streetlight not working on Mall Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.2
+BAGA-0927,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.6
+BAGA-0928,"Sewer line blocked in Shivaji Nagar, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,52.2
+BAGA-0929,Handpump in village Bhimashankar not working for 15 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,81.0
+BAGA-0930,No speed breakers near school on NH-48,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,326.7
+BAGA-0931,"Water contamination in Devgad, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,75.0
+BAGA-0932,"Water pressure is very low in Baner, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.0
+BAGA-0933,"Power cut in Sadar Bazar for 2 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,6.9
+BAGA-0934,"Sewer line blocked in Kothrud, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,43.1
+BAGA-0935,Road damaged after monsoon near market,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,300.7
+BAGA-0936,Community hall roof collapsed in gram panchayat Mahuli,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,653.1
+BAGA-0937,"Huge pothole on Old Mumbai Highway near hospital, very dangerous",Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,259.1
+BAGA-0938,Electric pole fallen on road near school in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.5
+BAGA-0939,Community hall roof collapsed in gram panchayat Mahuli,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,573.5
+BAGA-0940,"Dustbins removed from Station Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,38.5
+BAGA-0941,Community hall roof collapsed in gram panchayat Kolegaon,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,503.8
+BAGA-0942,Electric pole fallen on road near railway station in Baner,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.0
+BAGA-0943,"Drain overflowing on NH-48, causing health hazard",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,64.5
+BAGA-0944,"Water contamination in Devgad, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,102.2
+BAGA-0945,Garbage not collected for 15 days in Ward 15,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,60.3
+BAGA-0946,Streetlight not working on FC Road for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,5.4
+BAGA-0947,Electric pole fallen on road near petrol pump in Nehru Colony,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.4
+BAGA-0948,"Bridge near Wadgaon damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,600.1
+BAGA-0949,"Sewer line blocked in Baner, sewage on road",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.3
+BAGA-0950,"No water in gram panchayat Wadgaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,95.7
+BAGA-0951,Dirty contaminated water coming from tap in MG Road area,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,25.8
+BAGA-0952,Streetlight not working on NH-48 for 10 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,3.4
+BAGA-0953,"Village Devgad needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,88.6
+BAGA-0954,Water pipe burst on Tilak Road near government office,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,35.6
+BAGA-0955,Road damaged after monsoon near petrol pump,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,253.4
+BAGA-0956,Electric pole fallen on road near government office in Koregaon Park,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.8
+BAGA-0957,"Dustbins removed from Civil Lines Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,50.4
+BAGA-0958,"Transformer burst in Laxmi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.6
+BAGA-0959,Overhead tank not filling in our colony Nehru Colony,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,41.3
+BAGA-0960,"Dustbins removed from Tilak Road, kachra everywhere",Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,41.7
+BAGA-0961,Electric pole fallen on road near market in MG Road area,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.7
+BAGA-0962,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,72.4
+BAGA-0963,"Water pressure is very low in Nehru Colony, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,24.7
+BAGA-0964,Toilet construction incomplete in Kolegaon under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,78.7
+BAGA-0965,Open dumping of waste near college in Hadapsar,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,60.6
+BAGA-0966,Dirty contaminated water coming from tap in Gandhi Nagar,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.8
+BAGA-0967,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.9
+BAGA-0968,"Village Kolegaon needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,100.2
+BAGA-0969,Streetlight not working on Civil Lines Road for 7 days,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.5
+BAGA-0970,Water pipe burst on Station Road near temple,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,32.1
+BAGA-0971,"Water contamination in Devgad, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,70.8
+BAGA-0972,Voltage fluctuation damaging appliances in Laxmi Nagar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,8.1
+BAGA-0973,"Village Junnar needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,88.8
+BAGA-0974,Electric pole fallen on road near bus stand in Sadar Bazar,Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.3
+BAGA-0975,"Power cut in Shivaji Nagar for 4 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,9.3
+BAGA-0976,Road damaged after monsoon near temple,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,393.0
+BAGA-0977,Open dumping of waste near hospital in Baner,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,65.7
+BAGA-0978,"Water contamination in Kolegaon, children falling sick",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,77.7
+BAGA-0979,"Transformer burst in Shivaji Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,12.2
+BAGA-0980,Village road from Bhimashankar to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,439.8
+BAGA-0981,"Village Devgad needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,65.7
+BAGA-0982,"No water in gram panchayat Kolegaon, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,98.1
+BAGA-0983,Water pipe burst on NH-48 near school,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,34.5
+BAGA-0984,Village road from Pargaon to taluka in terrible condition,Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,323.8
+BAGA-0985,"Power cut in Sadar Bazar for 3 hours, no update from MSEDCL",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,11.0
+BAGA-0986,Handpump in village Bhimashankar not working for 10 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,95.0
+BAGA-0987,"Bridge near Bhimashankar damaged, vehicles cannot pass",Major Infrastructure & Roads,Rural,Zilla Parishad / State PWD,Block Development Officer (BDO) / PWD Engineer,Low,530.5
+BAGA-0988,Road damaged after monsoon near government office,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,255.2
+BAGA-0989,Handpump in village Ambegaon not working for 5 days,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,80.0
+BAGA-0990,Water pipe burst on MG Road near railway station,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,23.6
+BAGA-0991,Toilet construction incomplete in Junnar under SBM,Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,67.9
+BAGA-0992,"No water in gram panchayat Bhimashankar, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,72.0
+BAGA-0993,"Water pressure is very low in Hadapsar, need urgent fix",Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,42.5
+BAGA-0994,"Village Mahuli needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,73.6
+BAGA-0995,"Village Devgad needs water tanker, no piped supply",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,90.8
+BAGA-0996,Road damaged after monsoon near railway station,Roads & Infrastructure,Urban,Municipal Public Works Department,Executive Engineer (Roads),Medium,255.3
+BAGA-0997,There is no water supply in Ward 29 since 24 hours,Water Supply,Urban,Municipal Water Works Department,Ward Officer / Assistant Engineer,High,30.7
+BAGA-0998,Garbage not collected for 15 days in Ward 45,Sanitation & Solid Waste,Urban,Municipal Solid Waste Management,Sanitary Inspector (SI),Medium,51.2
+BAGA-0999,"No water in gram panchayat Mahuli, bore well dried up",Water & Local Sanitation,Rural,Gram Panchayat,Gram Sevak / Jal Surakshak,Medium,83.7
+BAGA-1000,"Transformer burst in Gandhi Nagar, sparks flying — very dangerous",Electricity,State,State Electricity Board (MSEDCL/MSEB),Junior Engineer (JE) / Lineman,Critical,10.2
